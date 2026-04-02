@@ -108,10 +108,8 @@ The project was tested using repeatable driving routes under all 3 modes.
 - HUD accuracy  
 - City readability  
 - Performance consistency  
-
-### Not Fully Implemented ❌
-- Crash/damage system (removed due to instability)  
-- Traffic system (incomplete waypoint behavior)  
+---
+## Game Interface 🎮
 
 ---
 
