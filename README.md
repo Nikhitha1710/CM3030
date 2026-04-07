@@ -113,7 +113,8 @@ The project was tested using repeatable driving routes under all 3 modes.
 
 ![IMG_7685](https://github.com/user-attachments/assets/415b8dfd-fdd5-48ac-9dcc-a862f5812d3d)
 
-![IMG_7685](https://github.com/user-attachments/assets/dd905c1d-922f-4c37-bfc3-e0ed8cf063fc)
+![IMG_7684](https://github.com/user-attachments/assets/4904d8c7-bc08-4628-a40d-35150767d123)
+
 
 ---
 
